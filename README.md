@@ -1,6 +1,6 @@
 # char-counter
 basic character counter
 
-#Live
+# Live
 https://hakan-gul.github.io/char-counter/
 
